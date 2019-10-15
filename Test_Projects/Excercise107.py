@@ -1,4 +1,4 @@
-lst1 = [123,[1,2,3,4,],[1,2,22,3,]]
+"""lst1 = [123,[1,2,3,4,],[1,2,22,3,]]
 
 def sublist_counter(l):
     count = 0
@@ -7,6 +7,6 @@ def sublist_counter(l):
             count += 1
     return count
 
-print(sublist_counter(lst1))
+print(sublist_counter(lst1))"""
 
-
+list1 = print([i for i in range(1,11)])
