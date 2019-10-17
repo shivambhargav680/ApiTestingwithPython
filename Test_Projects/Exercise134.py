@@ -9,3 +9,4 @@ for i in num:
 print(new_list)
 
 new_list2 = print([i*2 if (i%2 ==0) else -i for i in num])
+
