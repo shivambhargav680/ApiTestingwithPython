@@ -1,3 +1,4 @@
+
 name = input("What is your name : ")
 age = input("what is your age : ")
 fav_mov = input("Your fav movies spreated by comma : ").split(",")
@@ -12,3 +13,4 @@ user['fav_song']=fav_song
 
 for key, value in user.items():
     print(f"{key}:{value}")
+
