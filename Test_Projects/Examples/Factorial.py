@@ -18,19 +18,12 @@ if n==0:
 else:
     for i in range(n,0,-1):
         result = result*i
-    #print(result)
+    print(result)
 cont=0
-temp = []
+temp =''
 num = str(result)
-for i in range(len(num)):
-    if num[i]=='0':
-        #print(num[i])
-        cont +=1
-#print(cont)
-temp.append(num[i])
-print(temp[0])
-
-
-
-
-
+for i in range(len(num),0,-1):
+    temp = num[i-1]
+    if temp=='0' :
+        cont+=1
+print(cont)
