@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="875a95e7-6695-4868-adb9-1c4f0cc0983d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/List_Excercise/SumOfNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List_Excercise/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Projects/Examples/ReplaceString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Excercise/LargestNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Projects/NameSpilit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Projects/NameSpilit.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -30,10 +26,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/List_Excercise/SumOfNumber.py">
+        <entry file="file://$PROJECT_DIR$/List_Excercise/LargestNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="17">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -128,6 +124,7 @@
         <option value="$PROJECT_DIR$/Test_Projects/NameSpilit.py" />
         <option value="$PROJECT_DIR$/Test_Projects/Examples/ReplaceString.py" />
         <option value="$PROJECT_DIR$/List_Excercise/SumOfNumber.py" />
+        <option value="$PROJECT_DIR$/List_Excercise/LargestNumber.py" />
       </list>
     </option>
   </component>
@@ -198,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SumOfNumber">
+  <component name="RunManager" selected="Python.LargestNumber">
     <configuration name="Exercise124" type="PythonConfigurationType" factoryName="Python">
       <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,6 +209,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Projects/Dictonary/Exercise124.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LargestNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestingwithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Excercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Excercise/LargestNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,27 +301,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zipfunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ApiTestingwithPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Projects/Zipfunction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="whileloops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LargestNumber" />
         <item itemvalue="Python.SumOfNumber" />
         <item itemvalue="Python.ReplaceString" />
         <item itemvalue="Python.NameSpilit" />
         <item itemvalue="Python.whileloops" />
-        <item itemvalue="Python.Zipfunction" />
       </list>
     </recent_temporary>
   </component>
@@ -388,19 +385,26 @@
       <option name="project" value="LOCAL" />
       <updated>1579515752868</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Excercise134">
+      <created>1580737853255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580737853264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,16 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test_Projects/whileloops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -644,6 +638,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List_Excercise/LargestNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
