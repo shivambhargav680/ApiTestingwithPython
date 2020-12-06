@@ -1,135 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="875a95e7-6695-4868-adb9-1c4f0cc0983d" name="Default Changelist" comment="Default Changelist">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/ElementbyXpathCss.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/RadioButton.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/Wraperclass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/using_wrappers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/YahooSignIN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selenium_Testing/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/After 150/176DecoratorExercise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/After 150/AdvanceFunctionPython.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/After 150/AnyAllExercise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/After 150/PassFunctionArgument.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/After 150/ZipFunctionTutorial156.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/After 150/functionreturningfunction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/ClassesExcercise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/ListComprehension/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/List_Excercise/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/Practice/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/StringExercise/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/Tuples/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/WebScraping/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Project/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/.idea/untitled.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/ArmstrongNumber.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/Factorial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/PrintNumberTriangle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/prettenprogram.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Excercise107.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Excersice1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Excersice100.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Excersice101.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Excersice95.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise120.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Fibonacci.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/ListvsArray.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/MMTEX1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/NameSpilit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/NumberGussing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Palindrome.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/ParttenPrograms/Pratten1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/RandomNumberCheck.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/SETS/set.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Selenium/HeadlessBrowser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/Tuples/Excersice110.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Excercise114.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Excercise115.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Excercise116.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Excercise117.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Excercise118.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Exercise122.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/dictionary/Exercise123.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/inkeyword.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/list.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test_Projects/whileloops.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traning/list.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/List_Excercise/CountString.py" afterPath="$PROJECT_DIR$/Test_Project/List_Excercise/CountString.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/List_Excercise/LargestNumber.py" afterPath="$PROJECT_DIR$/Test_Project/List_Excercise/LargestNumber.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/List_Excercise/SumOfNumber.py" afterPath="$PROJECT_DIR$/Test_Project/List_Excercise/SumOfNumber.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/List_Excercise/__init__.py" afterPath="$PROJECT_DIR$/Automation/test_square.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/After 150/EnumerateFunction.py" afterPath="$PROJECT_DIR$/Test_Project/After 150/EnumerateFunction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/After 150/Exercise153.py" afterPath="$PROJECT_DIR$/Test_Project/After 150/Exercise153.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/After 150/FilterFunctionTutorial154.py" afterPath="$PROJECT_DIR$/Test_Project/After 150/FilterFunctionTutorial154.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/After 150/ZipFunctionTutorial156.py" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Booking_com.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/After 150/list_excercise.py" afterPath="$PROJECT_DIR$/Test_Project/After 150/list_excercise.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Dictonary/Exercise124.py" afterPath="$PROJECT_DIR$/Test_Project/dictionary/Exercise124.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/ReadExcelData.py" afterPath="$PROJECT_DIR$/Test_Project/Examples/ReadExcelData.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/ReadExcelFile.py" afterPath="$PROJECT_DIR$/Test_Project/Examples/ReadExcelFile.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/ReplaceString.py" afterPath="$PROJECT_DIR$/Test_Project/Examples/ReplaceString.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Examples/__init__.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/Locaters/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Excercise130.py" afterPath="$PROJECT_DIR$/Test_Project/Excercise130.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Excercise131.py" afterPath="$PROJECT_DIR$/Test_Project/Excercise131.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Excersice142.py" afterPath="$PROJECT_DIR$/Test_Project/Excersice142.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise134.py" afterPath="$PROJECT_DIR$/Test_Project/Exercise134.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise135.py" afterPath="$PROJECT_DIR$/Test_Project/Exercise135.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise137.py" afterPath="$PROJECT_DIR$/Test_Project/Exercise137.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise138.py" afterPath="$PROJECT_DIR$/Test_Project/Exercise138.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise143.py" afterPath="$PROJECT_DIR$/Test_Project/Exercise143.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Exercise148.py" afterPath="$PROJECT_DIR$/Test_Project/Exercise148.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Kwargs.py" afterPath="$PROJECT_DIR$/Test_Project/Kwargs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/ListComprehension/Excercise128.py" afterPath="$PROJECT_DIR$/Test_Project/ListComprehension/Excercise128.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/LongestString.py" afterPath="$PROJECT_DIR$/Test_Project/LongestString.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/LongestSubstring.py" afterPath="$PROJECT_DIR$/Test_Project/LongestSubstring.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/StringExercise/CountNumber.py" afterPath="$PROJECT_DIR$/Test_Project/StringExercise/CountNumber.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/StringExercise/LengOFstring.py" afterPath="$PROJECT_DIR$/Test_Project/StringExercise/LengOFstring.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/StringExercise/__init__.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/WebScraping/Tutorial1CreateProject.py" afterPath="$PROJECT_DIR$/Test_Project/WebScraping/Tutorial1CreateProject.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/WordCounter.py" afterPath="$PROJECT_DIR$/Test_Project/WordCounter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/Zipfunction.py" afterPath="$PROJECT_DIR$/Test_Project/Zipfunction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/geckodriver.log" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Chrome_Driver.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_Projects/selenium Practice.py" afterPath="$PROJECT_DIR$/Test_Project/selenium Practice.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/DateFormatChange.py" afterPath="$PROJECT_DIR$/Test_Project/DateFormatChange.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/NumPy.py" afterPath="$PROJECT_DIR$/Test_Project/NumPy.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/POM/Locaters/Elements.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/Locaters/Elements.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/POM/Locaters/redbusElement.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/Locaters/redbusElement.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/POM/Locaters/unittest.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/Locaters/unittest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/POM/login/logintest.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/login/logintest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/POM/pages/__init__.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/login/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/POM/pages/loginpage.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/pages/loginpage.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Armstrong_number.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Armstrong_number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Arrylist.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Arrylist.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Cards.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Cards.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Createobject.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Createobject.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Ex1AgeProgram.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Ex1AgeProgram.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Fibonacci_number.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Fibonacci_number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Loops.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Loops.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/NasaInsta.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/NasaInsta.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/Partten1.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/Partten1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/ParttenProgram.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/ParttenProgram.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/WebCrawler.py" afterPath="$PROJECT_DIR$/Test_Project/Practice/WebCrawler.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Practice/__init__.py" afterPath="$PROJECT_DIR$/Selenium_Testing/POM/pages/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Selenium.py" afterPath="$PROJECT_DIR$/Test_Project/Selenium.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Tuples/Ex110.py" afterPath="$PROJECT_DIR$/Test_Project/Tuples/Ex110.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Traning/Tuples/__init__.py" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/OpenURL.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ApiTestingwithPython.iml" afterPath="$PROJECT_DIR$/.idea/ApiTestingwithPython.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Headless_Browser.py" afterPath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Headless_Browser.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Project/Examples/Factorial.py" afterPath="$PROJECT_DIR$/Test_Project/Examples/Factorial.py" />
+    <list default="true" id="875a95e7-6695-4868-adb9-1c4f0cc0983d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/File_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/ImplicitWait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/SeleniumAssignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Project/APITest/TestCases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Project/APITest/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/SeleniumBasicTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/AssignmentTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/AssignmentTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Conditionalcmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Conditionalcmd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Explicit_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Headless_Browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Headless_Browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/ImplicitOrExplicitWaits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/ImplicitOrExplicitWaits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/LoginPageTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/LoginPageTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/LoginWithBrowsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/LoginWithBrowsers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/NavigationCmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/NavigationCmd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/PageElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Testing/selenium Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/selenium Practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traning/APITest/Delete_Method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/Delete_Method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traning/APITest/PostAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/PostAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traning/APITest/PutRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/PutRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traning/APITest/TestAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/TestAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traning/APITest/TestCases/test_CreateUser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/TestCases/test_CreateUser.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,11 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OpenURL.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/OpenURL.py">
+      <file leaf-file-name="AssignmentTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/AssignmentTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="27" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -152,70 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RadioButton.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/RadioButton.py">
+      <file leaf-file-name="SeleniumAssignment1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/SeleniumAssignment1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="105" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MakeMYTrip1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Booking_com.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/Booking_com.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Wraperclass.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/Wraperclass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="using_wrappers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/using_wrappers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="105" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="105" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Explicit_wait.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -231,6 +75,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/shivambhargav680/ApiTestingwithPython" />
+      </set>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -271,21 +122,27 @@
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/Chrome_Driver.py" />
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/OpenURL.py" />
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/RadioButton.py" />
-        <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" />
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/Booking_com.py" />
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/Wraperclass.py" />
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/using_wrappers.py" />
         <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/Wraperclass.py" />
-        <option value="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py" />
         <option value="$PROJECT_DIR$/Automation/test_square.py" />
+        <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/ImplicitWait.py" />
+        <option value="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py" />
+        <option value="$USER_HOME$/Downloads/explicit_wait_demo1.py" />
+        <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" />
+        <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/PageElement.py" />
+        <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/File_Filter.py" />
+        <option value="$PROJECT_DIR$/Selenium_Testing/Selenium/SeleniumAssignment1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="453" />
     <option name="width" value="453" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectId" id="1lI7eERg5oLtYaZJroTIXBhDzIj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -304,14 +161,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ApiTestingwithPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApiTestingwithPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiTestingwithPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiTestingwithPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ApiTestingwithPython" type="b2602c69:ProjectViewProjectNode" />
@@ -328,56 +188,36 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Test_Project" />
+      <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Selenium_Testing\Selenium" />
       <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Selenium_Testing" />
       <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Test_Project\Tuples" />
       <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Test_Projects\dictionary" />
-      <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Selenium_Testing\Selenium\WraperClasses" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Selenium_Testing\Selenium" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.NumPy">
-    <configuration name="Booking_com" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Testing/Selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ApiTestingwithPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Testing/Selenium/Booking_com.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.File_Filter">
     <configuration name="Exercise124" type="PythonConfigurationType" factoryName="Python">
+      <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -388,13 +228,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ApiTestingwithPython" />
       <option name="SCRIPT_NAME" value="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Test_Projects\dictionary\Exercise124.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Explicit_wait" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -405,84 +249,118 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ApiTestingwithPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Selenium_Testing\Selenium\Explicit_wait.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="NumPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="File_Filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Traning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Testing/Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ApiTestingwithPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hitesh bhargav\PycharmProjects\ApiTestingwithPython\Test_Project\NumPy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Testing/Selenium/File_Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="test_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MakeMYTrip1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Testing/Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ApiTestingwithPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automation/test_square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="using_wrappers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PageElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestingwithPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ApiTestingwithPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/using_wrappers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/PageElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercise124" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Booking_com" />
-      <item index="2" class="java.lang.String" itemvalue="Python.using_wrappers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Explicit_wait" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_square" />
-      <item index="5" class="java.lang.String" itemvalue="Python.NumPy" />
+    <configuration name="explicit_wait_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestingwithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/explicit_wait_demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Exercise124" />
+      <item itemvalue="Python.Explicit_wait" />
+      <item itemvalue="Python.File_Filter" />
+      <item itemvalue="Python.MakeMYTrip1" />
+      <item itemvalue="Python.PageElement" />
+      <item itemvalue="Python.explicit_wait_demo1" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.NumPy" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_square" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Explicit_wait" />
-        <item index="3" class="java.lang.String" itemvalue="Python.using_wrappers" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Booking_com" />
+      <list>
+        <item itemvalue="Python.File_Filter" />
+        <item itemvalue="Python.PageElement" />
+        <item itemvalue="Python.MakeMYTrip1" />
+        <item itemvalue="Python.explicit_wait_demo1" />
+        <item itemvalue="Python.Explicit_wait" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -554,12 +432,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1764706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16029412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5029412" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5029412" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.4970588" order="2" side_tool="false" content_ui="tabs" />
@@ -573,192 +450,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Excercise131" />
     <MESSAGE value="Excercise134" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excercise134" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-    <watches-manager />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test_Project/Practice/Armstrong_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Traning/APITest/PostAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Traning/APITest/Delete_Method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/Zipfunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Traning/APITest/PutRequest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/Examples/ReplaceString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/List_Excercise/CountString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/ZipFunctionTutorial156.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Traning/APITest/TestAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Projects/whileloops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/EnumerateFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/FilterFunctionTutorial154.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/AdvanceFunctionPython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/AnyAllExercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/AssignmentTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/LoginWithBrowsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Headless_Browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/functionreturningfunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/c96d77cd-2285-48fb-86c3-078d889aa364.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/ElementbyXpathCss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/NavigationCmd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/LoginPageTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Project/After 150/PassFunctionArgument.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/selenium Practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test_Project/After 150/176DecoratorExercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -777,15 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="105" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/Chrome_Driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,51 +489,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/Booking_com.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Projects/Tuples/Excersice110.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Projects/Selenium/HeadlessBrowser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Projects/Excercise107.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="true" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Projects/Tuples/Excersice110.py" />
+    <entry file="file://$PROJECT_DIR$/Test_Projects/Selenium/HeadlessBrowser.py" />
+    <entry file="file://$PROJECT_DIR$/Test_Projects/Excercise107.py" />
     <entry file="file://$PROJECT_DIR$/Test_Project/Excercise107.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automation/test_square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,31 +510,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PWAF-master/drivers/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Traning/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Traning/list.py" />
     <entry file="file://$PROJECT_DIR$/Test_Project/NumPy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,19 +532,215 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-505">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/RadioButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/ImplicitWait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="109" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/explicit_wait_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="110" lean-forward="false" selection-start-line="11" selection-start-column="110" selection-end-line="11" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/OpenURL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/drivers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/pages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PWAF-master/pages/challenging_dom_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+        <state relative-caret-position="481">
+          <caret line="93" column="64" lean-forward="false" selection-start-line="93" selection-start-column="64" selection-end-line="93" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/pages/checkbox_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/all_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/disappearing_elements_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/utility/drivermanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/dropdown_page_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/drag_and_drop_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/context_menu_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/checkbox_page_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/testcases/challenging_dom_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/screenshots/test_dropdown_page.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWAF-master/screenshots/test_context_menu_page.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/selenium Practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Traning/DataDrivenFramework/excelutill.py">
+    <entry file="file://$PROJECT_DIR$/Test_data/New Text Document1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation/test_square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/File_Filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/PageElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/Wraperclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/using_wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -921,66 +753,68 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py">
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/Booking_com.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/OpenURL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/RadioButton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="105" />
+        <state relative-caret-position="17">
+          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py">
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/Chrome_Driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="45" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/Explicit_wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/HeadlessBrowser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Traning/DataDrivenFramework/excelutill.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/AssignmentTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/Wraperclass.py">
+    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/SeleniumAssignment1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_Testing/Selenium/WraperClasses/using_wrappers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="105" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="105" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
