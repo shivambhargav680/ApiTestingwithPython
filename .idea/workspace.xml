@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="875a95e7-6695-4868-adb9-1c4f0cc0983d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/File_Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/ImplicitWait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/SeleniumAssignment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Project/APITest/TestCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Project/APITest/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/MakeMYTrip1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/SeleniumBasicTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/AssignmentTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/AssignmentTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Conditionalcmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Conditionalcmd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Explicit_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Explicit_wait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/Headless_Browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/Headless_Browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/ImplicitOrExplicitWaits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/ImplicitOrExplicitWaits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/LoginPageTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/LoginPageTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/LoginWithBrowsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/LoginWithBrowsers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/NavigationCmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/NavigationCmd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/AutoSelenium/PageElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/SeleniumBasicTest/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Testing/selenium Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Testing/Selenium/selenium Practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traning/APITest/Delete_Method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/Delete_Method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traning/APITest/PostAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/PostAPI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traning/APITest/PutRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/PutRequest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traning/APITest/TestAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/TestAPI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traning/APITest/TestCases/test_CreateUser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Project/APITest/TestCases/test_CreateUser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
